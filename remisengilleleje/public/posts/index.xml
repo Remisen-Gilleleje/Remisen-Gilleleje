@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remisen Skatepark</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content on Remisen Skatepark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Thu, 11 Apr 2024 11:13:53 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>På forsiden af ugeposten</title>
+      <link>http://localhost:1313/archive/paa-forsiden-af-ugeposten/</link>
+      <pubDate>Thu, 11 Apr 2024 11:13:53 +0200</pubDate>
+      <guid>http://localhost:1313/archive/paa-forsiden-af-ugeposten/</guid>
+      <description>I artiklen fra Ugeposten, skrevet af Nicklas Thorup Clausen, beskrives projektets baggrund og det nødvendige behov for en forandring. Mens området kæmper med at fremstå indbydende, selv på en solrig sommerdag, er håbet, at dette initiativ kan bringe nyt liv og positiv energi til Gilleleje.&#xA;Vi i støtteforeningen er begejstrede for at se vores initiativ blive anerkendt. Vi opfordrer alle i Gilleleje og omegn til at støtte op om dette fantastiske projekt.</description>
+    </item>
+  </channel>
+</rss>

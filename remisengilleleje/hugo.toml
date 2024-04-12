@@ -1,0 +1,49 @@
+baseURL = "https://remisengilleleje.dk/"
+languageCode = "da-dk"
+title = "Remisen Skatepark"
+theme = "huey"
+
+[params]
+
+useIndexContent = true # default is false
+numPostsOnFrontpage = 100
+
+author = "Ulf Aslak"
+dateFormat = "2006-01-02"
+description = "Remisen Skatepark er en non-profit organisation, der har til formål at rejse fondsmidler og skabe politisk støtte til udviklingen af en bevægelsespark ved Remisen i Gilleleje."
+keywords = "remisen skatepark gilleleje bevægelsespark multipark bmx rullerskøjter løbehjul ungdomsskolen ungdomshuset"
+email = "ulfaslak@gmail.com"
+
+# fontawesomeToken = "018de52a07"
+
+# Set static directory locations and favicon
+favicon = "favicon.ico"
+staticDir = ['static']
+
+
+[menu]
+
+# Top Navigation
+[[menu.nav]]
+  identifier = 'om-projektet'
+  name = 'Om Projektet'
+  title = 'Om Projektet'
+  url = '/'
+  weight = 1
+
+[[menu.nav]]
+  identifier = 'støttegruppen'
+  name = 'Støttegruppen'
+  title = 'Støttegruppen'
+  url = '/støttegruppen/'
+  weight = 3
+
+[[menu.nav]]
+  identifier = 'kontakt'
+  name = 'Kontakt'
+  title = 'Kontakt'
+  url = '/kontakt/'
+  weight = 4
+
+[outputs]
+  home = ['HTML']
